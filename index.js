@@ -5,6 +5,7 @@ var mkdirp = require('mkdirp')
 var fs = require('fs')
 var path = require('path')
 var os = require('os')
+var myToken = "98a42020af0757848f100f70f44c73734a1da5f6";
 
 var win32 = os.platform() === 'win32'
 
