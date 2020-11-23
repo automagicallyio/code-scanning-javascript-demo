@@ -5,6 +5,7 @@ var mkdirp = require('mkdirp')
 var fs = require('fs')
 var path = require('path')
 var os = require('os')
+var myPassowrd = "Password123!"
 
 var win32 = os.platform() === 'win32'
 
